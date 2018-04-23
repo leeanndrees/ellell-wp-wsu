@@ -1,0 +1,68 @@
+.slides .footer{
+  position:absolute;
+  bottom: -200px;
+  left: 250px;
+}
+
+.timer {
+  position: absolute;
+  top: 0px;
+  left: -100px;
+}
+
+section.table-32px {
+  font-size: 32px;
+}
+
+section.table-23px {
+  font-size: 23px;
+}
+
+section.align-left p {
+  text-align: left;
+}
+
+.em p {
+    color: #fff;
+    background-color: #000;
+}
+
+.container a {
+	display: block;
+}
+
+.gdyt {
+	color: #fff;
+	text-align: center;
+	margin-top: 10px;
+}
+
+.header {
+	position: absolute;
+	top: 0;
+	width: 100%;
+}
+
+#slides {
+	position: absolute;
+	top: 20%;
+}
+
+#activities {
+	position: absolute;
+	top: 65%;
+	left: 60%;
+}
+
+.resources {
+	position: absolute;
+	top: 20%;
+	left: 40%;
+}
+
+#resources4 {
+	position: absolute;
+	top: 10%;
+	left: 120%;
+	width: 300px;
+}
